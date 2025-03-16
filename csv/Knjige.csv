@@ -1,201 +1,201 @@
-KnjigaID,Naslov,ISBN,GodinaIzdavanja,Status,IzdavacID,KategorijaID,AutorID
-1,Romeo i Julija,756-90-49802-3,1951,Rezervirano,4,6,17
-2,Noćni vlak za Lisabon,337-29-28163-4,1917,Dostupno,4,3,5
-3,Ponos i predrasude,797-27-87668-2,1962,Posuđeno,9,30,2
-4,Priručnik za anđele,274-47-99531-1,1991,Dostupno,6,20,18
-5,Veliki Gatsby,584-58-53712-1,1915,Posuđeno,11,3,21
-6,Gospodar prstenova,277-18-67202-2,1940,Rezervirano,11,21,2
-7,Rat i mir,120-61-17086-4,1961,Dostupno,17,16,27
-8,Moby Dick,718-60-93201-7,1970,Dostupno,12,21,9
-9,Doba nevinosti,256-72-18689-4,1930,Posuđeno,8,28,29
-10,Lovac u žitu,336-14-82707-1,1983,Posuđeno,7,20,16
-11,Povijest svijeta u 10 i pol poglavlja,449-64-11249-4,1958,Dostupno,13,7,10
-12,Noćni vlak za Lisabon,441-95-62611-8,1931,Dostupno,13,18,4
-13,Kraj igre,925-41-31910-3,1951,Posuđeno,7,29,20
-14,Drakula,395-35-67793-2,1980,Posuđeno,5,30,17
-15,Kraj igre,982-50-94094-4,1992,Posuđeno,11,22,24
-16,Gulliverova putovanja,830-32-61237-7,1905,Dostupno,19,29,4
-17,Jadnici,869-13-46094-5,1980,Rezervirano,3,15,11
-18,Mačak u čizmama,259-19-80722-9,1968,Dostupno,1,24,4
-19,Dina,891-25-47578-7,1949,Posuđeno,6,23,3
-20,Rat i mir,635-73-27818-1,1986,Dostupno,5,8,9
-21,Mali princ,824-74-67811-2,1999,Posuđeno,14,9,18
-22,Ubiti pticu rugalicu,482-99-61464-9,2017,Dostupno,12,11,10
-23,Šifra Leonarda da Vincija,982-24-75452-1,2012,Dostupno,10,9,28
-24,Snjeguljica,449-95-31400-7,1904,Dostupno,17,8,16
-25,Izgubljeni simbol,562-20-11817-5,1949,Posuđeno,12,5,10
-26,Tri mušketira,965-66-40757-2,1994,Rezervirano,7,10,23
-27,Harry Potter i plameni pehar,239-43-18796-8,1980,Posuđeno,19,26,1
-28,Gospodar prstenova,570-20-94563-5,1920,Dostupno,9,12,23
-29,To,866-44-45439-8,1945,Dostupno,17,11,30
-30,Alisa u zemlji čudesa,851-31-11785-2,1972,Posuđeno,6,20,16
-31,Razum i osjećaji,582-82-30614-7,1919,Dostupno,3,4,25
-32,Sudar kraljeva,685-19-69487-6,1932,Posuđeno,12,15,30
-33,Grofica Monte Cristo,283-51-56696-1,2004,Dostupno,17,3,25
-34,Inferno,419-63-47796-7,2020,Rezervirano,15,4,21
-35,Zvijezde sjaje na nebu,691-17-71787-4,1968,Dostupno,17,15,5
-36,Anna Karenjina,943-12-35649-2,2003,Dostupno,12,27,2
-37,Zlatokosa,788-99-20749-7,1919,Rezervirano,20,17,10
-38,Mali princ,442-39-58078-4,1964,Dostupno,20,5,8
-39,Noćni vlak za Lisabon,778-64-50484-8,1919,Rezervirano,19,26,13
-40,1984,965-94-70765-4,1956,Dostupno,16,19,23
-41,David Copperfield,627-39-16418-3,2017,Rezervirano,12,4,19
-42,Plavi anđeo,835-19-25063-7,1942,Rezervirano,3,4,5
-43,1984,324-86-78730-8,1924,Dostupno,20,3,14
-44,Gospodar muha,777-58-71065-5,2004,Posuđeno,11,14,15
-45,Pepeljuga,313-91-96715-2,1946,Posuđeno,18,13,7
-46,Put oko svijeta u 80 dana,483-96-95319-6,1949,Posuđeno,2,19,8
-47,Gospodin Nobody,534-17-86919-6,1959,Rezervirano,11,14,8
-48,Tamni monah,830-21-18778-6,1951,Dostupno,2,16,3
-49,Na zapadu ništa novo,917-12-47584-2,1974,Rezervirano,3,9,5
-50,Gospodar prstenova,675-80-65697-8,1955,Dostupno,15,15,28
-51,Crvenkapica,334-54-27010-7,2013,Dostupno,10,18,6
-52,Zelena milja,234-62-44384-1,1956,Rezervirano,17,3,12
-53,Njegova mračna tvar,661-45-54902-9,1992,Rezervirano,1,14,4
-54,Pustolovine Huckleberryja Finna,894-75-80164-6,1946,Rezervirano,16,27,16
-55,Pogled s mosta,789-45-63724-7,1953,Dostupno,15,4,17
-56,Put svile,292-53-98117-2,1987,Rezervirano,1,8,24
-57,Grofica Monte Cristo,721-10-22572-8,1909,Posuđeno,20,1,29
-58,Djevojka s tetovažom zmaja,565-51-82529-3,1911,Posuđeno,18,13,1
-59,Moje ime je crveno,316-92-68208-2,1939,Posuđeno,2,14,17
-60,Pustolovine Sherlocka Holmesa,455-14-18525-7,1995,Rezervirano,3,21,15
-61,Ivica i Marica,392-53-32785-9,1902,Dostupno,11,4,16
-62,Noćni vlak za Lisabon,932-95-76410-7,1983,Dostupno,1,23,30
-63,Pustolovine Sherlocka Holmesa,579-10-28883-3,2019,Posuđeno,1,20,18
-64,Gospodin Mercedes,826-99-64877-1,1949,Dostupno,13,8,11
-65,Tri mušketira,979-83-33359-5,1932,Posuđeno,14,25,16
-66,Sjene nad Balkanom,128-21-70984-7,1955,Posuđeno,12,14,5
-67,Pogled s mosta,677-19-34467-3,1935,Dostupno,4,9,18
-68,Grofica Monte Cristo,470-53-41150-6,1927,Rezervirano,8,24,21
-69,Izgubljeni simbol,795-75-63419-5,2022,Posuđeno,16,6,6
-70,Kuća duhova,390-64-45801-5,1992,Posuđeno,5,28,17
-71,Pepeljuga,713-91-71954-3,1953,Rezervirano,8,19,17
-72,Pustolovine Sherlocka Holmesa,930-58-86156-1,1915,Posuđeno,19,1,3
-73,Inferno,395-53-59048-9,2018,Rezervirano,13,22,9
-74,Ubiti pticu rugalicu,936-37-26154-6,2010,Rezervirano,16,29,21
-75,Snjeguljica,315-91-50177-4,1918,Rezervirano,19,11,7
-76,Bratstvo i jedinstvo,422-31-18848-1,1924,Dostupno,10,10,2
-77,Tajni agent,710-74-60367-2,1939,Posuđeno,9,3,19
-78,Ljepotica i zvijer,295-87-88995-5,1966,Dostupno,10,23,21
-79,Bezimeni grobovi,482-65-80097-3,1999,Posuđeno,1,14,11
-80,Oluja mačeva,568-93-31065-3,1923,Posuđeno,1,6,21
-81,Kuća duhova,922-95-27508-9,1969,Rezervirano,14,8,26
-82,Harry Potter i darovi smrti,519-82-55860-4,1953,Rezervirano,1,20,21
-83,Krila galeba,654-28-91592-2,2023,Posuđeno,15,7,22
-84,Ples zmajeva,650-17-29835-9,1963,Posuđeno,10,15,20
-85,Pustolovine Huckleberryja Finna,909-72-53608-4,2019,Rezervirano,18,27,20
-86,Tajni agent,200-29-70554-9,1995,Posuđeno,7,9,17
-87,Tihi američki,283-90-41659-5,2017,Rezervirano,17,12,5
-88,Božanstvena komedija,998-19-12417-1,1907,Rezervirano,2,5,19
-89,Anđeli i demoni,784-81-35343-9,1993,Dostupno,12,10,8
-90,Plavi anđeo,699-41-14086-4,1928,Rezervirano,19,29,6
-91,Orkanski visovi,665-61-30815-1,1957,Dostupno,3,19,10
-92,Sto godina samoće,764-54-85358-1,1961,Rezervirano,2,11,6
-93,Dnevnik Anne Frank,651-15-27450-7,1977,Posuđeno,2,27,14
-94,Grofica Monte Cristo,967-21-70892-9,2021,Dostupno,5,16,5
-95,Ponos i predrasude,466-73-70766-8,1923,Dostupno,19,13,24
-96,Petar Pan,721-45-70201-8,1952,Rezervirano,20,29,1
-97,Ivica i Marica,291-31-50117-9,1991,Rezervirano,10,19,22
-98,Bog malih stvari,753-68-96576-1,2009,Dostupno,15,16,5
-99,Kći Lotrščaka,771-87-37323-8,1938,Dostupno,13,20,27
-100,Opsada,617-73-35897-8,1913,Rezervirano,4,24,23
-101,Bratstvo i jedinstvo,778-96-42716-8,1906,Posuđeno,13,7,30
-102,To,604-42-56769-5,1901,Posuđeno,3,3,9
-103,Nebo u kavezu,989-66-80944-2,1908,Posuđeno,1,1,9
-104,Jantarni teleskop,306-75-39084-4,1923,Posuđeno,16,10,24
-105,Harry Potter i Princ miješane krvi,514-60-66131-6,2012,Posuđeno,15,29,30
-106,Žena u kavezu,601-54-95444-6,1927,Posuđeno,3,7,19
-107,Romeo i Julija,908-34-15655-4,1902,Posuđeno,20,18,21
-108,Sjećanje na moje tužne kurve,122-98-42075-8,1904,Rezervirano,11,25,15
-109,Crvenkapica,349-62-62517-9,1924,Rezervirano,9,5,26
-110,Harry Potter i odaja tajni,774-18-27514-2,2014,Posuđeno,7,8,8
-111,Zvijezde su slijedile mjesec,283-18-50171-5,1952,Rezervirano,19,20,26
-112,Gulliverova putovanja,873-54-29211-3,1995,Dostupno,16,7,11
-113,Knjiga o džungli,539-13-93253-5,1986,Rezervirano,15,17,9
-114,Tihi američki,165-85-20596-5,1995,Rezervirano,11,14,19
-115,Pogled s mosta,221-61-97214-5,1926,Posuđeno,14,4,5
-116,Zeleni dom,711-41-95559-7,1950,Posuđeno,9,3,14
-117,Ljepotica i zvijer,817-78-10882-6,1900,Rezervirano,9,19,4
-118,Petar Pan,399-69-21616-8,2016,Posuđeno,2,13,11
-119,Jantarni teleskop,719-81-14289-5,1954,Rezervirano,16,30,17
-120,Ples zmajeva,665-63-78308-4,2024,Posuđeno,15,30,19
-121,1984,806-14-67694-7,1910,Rezervirano,3,4,25
-122,Njegova mračna tvar,456-46-87554-4,1917,Dostupno,20,20,12
-123,Božanstvena komedija,930-57-65208-4,1983,Rezervirano,10,29,15
-124,Harry Potter i kamen mudraca,408-49-73753-9,1968,Dostupno,7,1,18
-125,Šifra Leonarda da Vincija,195-92-99067-5,1963,Dostupno,8,27,10
-126,Grofica Monte Cristo,440-93-15450-4,2005,Posuđeno,18,26,26
-127,Zločin i kazna,338-39-84645-2,1987,Posuđeno,6,13,14
-128,Hamlet,469-35-63335-3,2012,Rezervirano,13,17,26
-129,Orkanski visovi,550-60-34035-6,1978,Rezervirano,19,11,11
-130,Čarobnjak iz Oza,346-38-50540-3,1963,Dostupno,10,18,18
-131,Ples zmajeva,806-92-83981-9,1987,Posuđeno,5,14,18
-132,Harry Potter i zarobljenik Azkabana,728-97-46766-5,1937,Dostupno,8,10,8
-133,Jantarni teleskop,915-10-33598-2,1923,Dostupno,19,12,2
-134,Peti svjedok,784-39-64959-4,1910,Rezervirano,15,20,23
-135,Pustolovine Huckleberryja Finna,161-68-58274-7,2021,Posuđeno,15,28,25
-136,Djevojka s tetovažom zmaja,127-17-38794-9,1993,Posuđeno,3,5,24
-137,Veliki Gatsby,575-55-30294-9,2000,Rezervirano,3,21,28
-138,Put svile,861-80-80324-7,1915,Rezervirano,4,24,4
-139,Čovjek po imenu Ove,911-24-34734-8,1969,Posuđeno,14,10,21
-140,Harry Potter i odaja tajni,445-34-30738-7,1923,Posuđeno,10,3,13
-141,Snjeguljica,854-47-85749-6,2019,Rezervirano,12,9,16
-142,Hamlet,935-95-34058-8,1964,Posuđeno,17,30,21
-143,Mali princ,982-54-52855-1,1944,Posuđeno,13,5,3
-144,Patnje mladog Werthera,391-38-39144-3,2009,Dostupno,1,21,30
-145,Derviš i smrt,735-76-72299-3,1934,Posuđeno,10,3,2
-146,Sjena vjetra,597-21-51321-4,1951,Rezervirano,20,4,5
-147,Knjiga o džungli,707-95-45887-2,2012,Posuđeno,4,10,8
-148,Sjene nad Balkanom,257-31-64918-3,1970,Dostupno,1,21,5
-149,Gozba vrana,990-88-26258-3,2006,Dostupno,5,18,1
-150,Kapetanova kći,419-16-16564-3,1971,Dostupno,1,19,28
-151,Pogled s mosta,889-38-56180-1,1934,Rezervirano,7,2,27
-152,Božanstvena komedija,809-65-67667-5,2022,Rezervirano,2,29,15
-153,Derviš i smrt,299-43-47754-5,1940,Posuđeno,7,8,22
-154,Zeleni dom,129-79-96942-5,1986,Posuđeno,10,29,12
-155,Put oko svijeta u 80 dana,796-84-93778-9,2024,Rezervirano,7,28,4
-156,Krila galeba,819-72-78892-7,1980,Posuđeno,9,8,23
-157,Tihi američki,749-30-89265-3,1917,Dostupno,11,7,25
-158,Kraljević i prosjak,434-14-57378-7,1933,Dostupno,17,11,24
-159,Bezimeni grobovi,696-99-75135-5,1934,Dostupno,3,20,3
-160,Zvijezde sjaje na nebu,550-17-28661-8,1929,Posuđeno,18,23,17
-161,Otok s blagom,997-20-41168-4,1948,Posuđeno,18,25,5
-162,Na zapadu ništa novo,168-55-88195-5,2007,Dostupno,6,18,16
-163,Ponos i predrasude,412-36-42571-4,2023,Dostupno,18,19,11
-164,Snjeguljica,607-61-38191-3,1959,Dostupno,14,30,1
-165,Pogled s mosta,418-91-74445-4,1953,Rezervirano,4,8,24
-166,Priručnik za anđele,377-94-43478-2,1984,Rezervirano,5,18,17
-167,Emma,353-78-47845-6,1965,Posuđeno,12,26,10
-168,Bog malih stvari,190-96-13994-7,1976,Rezervirano,17,13,18
-169,Besmrtna Henrietta Lacks,900-69-30543-1,1999,Posuđeno,7,22,25
-170,Sto godina samoće,279-69-13240-6,1989,Rezervirano,20,24,8
-171,Mali princ,539-25-91816-2,1920,Posuđeno,9,14,7
-172,Moje ime je crveno,959-29-22454-5,1925,Dostupno,10,30,5
-173,David Copperfield,516-29-46953-6,1908,Posuđeno,17,26,7
-174,Harry Potter i zarobljenik Azkabana,401-62-86180-9,1970,Posuđeno,20,3,17
-175,Romeo i Julija,376-48-46695-1,1988,Dostupno,15,27,1
-176,Grofica Monte Cristo,402-82-56514-5,1945,Rezervirano,17,23,3
-177,Derviš i smrt,779-28-38613-4,1920,Dostupno,3,2,22
-178,Ljepotica i zvijer,693-65-46481-6,1988,Rezervirano,12,26,2
-179,To,632-88-45741-1,1904,Rezervirano,2,12,14
-180,Peti svjedok,529-23-28581-9,1948,Dostupno,6,14,7
-181,Mačak u čizmama,290-16-47120-3,1978,Rezervirano,7,5,11
-182,Orkanski visovi,204-10-18879-8,1937,Posuđeno,13,22,28
-183,Mrtve duše,820-57-20010-1,1955,Posuđeno,11,14,3
-184,Ilijada,247-72-18174-7,1938,Posuđeno,20,4,2
-185,Don Quijote,926-33-95053-7,1957,Rezervirano,9,7,7
-186,Tri mušketira,685-67-61604-3,1970,Posuđeno,6,25,23
-187,Alisa u zemlji čudesa,842-90-95781-7,1932,Dostupno,18,4,30
-188,Noćni vlak za Lisabon,384-43-87095-9,1997,Posuđeno,8,4,1
-189,Groblje kućnih ljubimaca,833-76-20719-1,1961,Rezervirano,1,21,17
-190,Ivica i Marica,984-50-92286-4,2000,Dostupno,4,4,3
-191,Lovac u žitu,254-73-95597-6,1985,Posuđeno,16,10,24
-192,Sto godina samoće,532-91-89831-4,1918,Rezervirano,20,1,18
-193,Čovjek po imenu Ove,507-97-72377-8,2018,Posuđeno,13,26,28
-194,Izgubljeni simbol,568-22-14880-5,2008,Rezervirano,1,29,23
-195,Ples zmajeva,922-66-85139-4,1921,Rezervirano,19,16,8
-196,Romeo i Julija,663-33-19413-2,2004,Dostupno,6,21,7
-197,Vlak u snijegu,585-16-46712-7,1938,Posuđeno,2,19,15
-198,Mrtve duše,723-83-72775-5,1975,Posuđeno,3,21,24
-199,David Copperfield,254-49-79945-1,1995,Dostupno,1,24,23
-200,Igra prijestolja,953-50-49123-9,1938,Rezervirano,18,9,2
+KnjigaID,Naslov,ISBN,GodinaIzdavanja,Status,IzdavacID,KategorijaID
+1,Romeo i Julija,756-90-49802-3,1951,Rezervirano,4,6
+2,Noćni vlak za Lisabon,337-29-28163-4,1917,Dostupno,4,3
+3,Ponos i predrasude,797-27-87668-2,1962,Posuđeno,9,30
+4,Priručnik za anđele,274-47-99531-1,1991,Dostupno,6,20
+5,Veliki Gatsby,584-58-53712-1,1915,Posuđeno,11,3
+6,Gospodar prstenova,277-18-67202-2,1940,Rezervirano,11,21
+7,Rat i mir,120-61-17086-4,1961,Dostupno,17,16
+8,Moby Dick,718-60-93201-7,1970,Dostupno,12,21
+9,Doba nevinosti,256-72-18689-4,1930,Posuđeno,8,28
+10,Lovac u žitu,336-14-82707-1,1983,Posuđeno,7,20
+11,Povijest svijeta u 10 i pol poglavlja,449-64-11249-4,1958,Dostupno,13,7
+12,Noćni vlak za Lisabon,441-95-62611-8,1931,Dostupno,13,18
+13,Kraj igre,925-41-31910-3,1951,Posuđeno,7,29
+14,Drakula,395-35-67793-2,1980,Posuđeno,5,30
+15,Kraj igre,982-50-94094-4,1992,Posuđeno,11,22
+16,Gulliverova putovanja,830-32-61237-7,1905,Dostupno,19,29
+17,Jadnici,869-13-46094-5,1980,Rezervirano,3,15
+18,Mačak u čizmama,259-19-80722-9,1968,Dostupno,1,24
+19,Dina,891-25-47578-7,1949,Posuđeno,6,23
+20,Rat i mir,635-73-27818-1,1986,Dostupno,5,8
+21,Mali princ,824-74-67811-2,1999,Posuđeno,14,9
+22,Ubiti pticu rugalicu,482-99-61464-9,2017,Dostupno,12,11
+23,Šifra Leonarda da Vincija,982-24-75452-1,2012,Dostupno,10,9
+24,Snjeguljica,449-95-31400-7,1904,Dostupno,17,8
+25,Izgubljeni simbol,562-20-11817-5,1949,Posuđeno,12,5
+26,Tri mušketira,965-66-40757-2,1994,Rezervirano,7,10
+27,Harry Potter i plameni pehar,239-43-18796-8,1980,Posuđeno,19,26
+28,Gospodar prstenova,570-20-94563-5,1920,Dostupno,9,12
+29,To,866-44-45439-8,1945,Dostupno,17,11
+30,Alisa u zemlji čudesa,851-31-11785-2,1972,Posuđeno,6,20
+31,Razum i osjećaji,582-82-30614-7,1919,Dostupno,3,4
+32,Sudar kraljeva,685-19-69487-6,1932,Posuđeno,12,15
+33,Grofica Monte Cristo,283-51-56696-1,2004,Dostupno,17,3
+34,Inferno,419-63-47796-7,2020,Rezervirano,15,4
+35,Zvijezde sjaje na nebu,691-17-71787-4,1968,Dostupno,17,15
+36,Anna Karenjina,943-12-35649-2,2003,Dostupno,12,27
+37,Zlatokosa,788-99-20749-7,1919,Rezervirano,20,17
+38,Mali princ,442-39-58078-4,1964,Dostupno,20,5
+39,Noćni vlak za Lisabon,778-64-50484-8,1919,Rezervirano,19,26
+40,1984,965-94-70765-4,1956,Dostupno,16,19
+41,David Copperfield,627-39-16418-3,2017,Rezervirano,12,4
+42,Plavi anđeo,835-19-25063-7,1942,Rezervirano,3,4
+43,1984,324-86-78730-8,1924,Dostupno,20,3
+44,Gospodar muha,777-58-71065-5,2004,Posuđeno,11,14
+45,Pepeljuga,313-91-96715-2,1946,Posuđeno,18,13
+46,Put oko svijeta u 80 dana,483-96-95319-6,1949,Posuđeno,2,19
+47,Gospodin Nobody,534-17-86919-6,1959,Rezervirano,11,14
+48,Tamni monah,830-21-18778-6,1951,Dostupno,2,16
+49,Na zapadu ništa novo,917-12-47584-2,1974,Rezervirano,3,9
+50,Gospodar prstenova,675-80-65697-8,1955,Dostupno,15,15
+51,Crvenkapica,334-54-27010-7,2013,Dostupno,10,18
+52,Zelena milja,234-62-44384-1,1956,Rezervirano,17,3
+53,Njegova mračna tvar,661-45-54902-9,1992,Rezervirano,1,14
+54,Pustolovine Huckleberryja Finna,894-75-80164-6,1946,Rezervirano,16,27
+55,Pogled s mosta,789-45-63724-7,1953,Dostupno,15,4
+56,Put svile,292-53-98117-2,1987,Rezervirano,1,8
+57,Grofica Monte Cristo,721-10-22572-8,1909,Posuđeno,20,1
+58,Djevojka s tetovažom zmaja,565-51-82529-3,1911,Posuđeno,18,13
+59,Moje ime je crveno,316-92-68208-2,1939,Posuđeno,2,14
+60,Pustolovine Sherlocka Holmesa,455-14-18525-7,1995,Rezervirano,3,21
+61,Ivica i Marica,392-53-32785-9,1902,Dostupno,11,4
+62,Noćni vlak za Lisabon,932-95-76410-7,1983,Dostupno,1,23
+63,Pustolovine Sherlocka Holmesa,579-10-28883-3,2019,Posuđeno,1,20
+64,Gospodin Mercedes,826-99-64877-1,1949,Dostupno,13,8
+65,Tri mušketira,979-83-33359-5,1932,Posuđeno,14,25
+66,Sjene nad Balkanom,128-21-70984-7,1955,Posuđeno,12,14
+67,Pogled s mosta,677-19-34467-3,1935,Dostupno,4,9
+68,Grofica Monte Cristo,470-53-41150-6,1927,Rezervirano,8,24
+69,Izgubljeni simbol,795-75-63419-5,2022,Posuđeno,16,6
+70,Kuća duhova,390-64-45801-5,1992,Posuđeno,5,28
+71,Pepeljuga,713-91-71954-3,1953,Rezervirano,8,19
+72,Pustolovine Sherlocka Holmesa,930-58-86156-1,1915,Posuđeno,19,1
+73,Inferno,395-53-59048-9,2018,Rezervirano,13,22
+74,Ubiti pticu rugalicu,936-37-26154-6,2010,Rezervirano,16,29
+75,Snjeguljica,315-91-50177-4,1918,Rezervirano,19,11
+76,Bratstvo i jedinstvo,422-31-18848-1,1924,Dostupno,10,10
+77,Tajni agent,710-74-60367-2,1939,Posuđeno,9,3
+78,Ljepotica i zvijer,295-87-88995-5,1966,Dostupno,10,23
+79,Bezimeni grobovi,482-65-80097-3,1999,Posuđeno,1,14
+80,Oluja mačeva,568-93-31065-3,1923,Posuđeno,1,6
+81,Kuća duhova,922-95-27508-9,1969,Rezervirano,14,8
+82,Harry Potter i darovi smrti,519-82-55860-4,1953,Rezervirano,1,20
+83,Krila galeba,654-28-91592-2,2023,Posuđeno,15,7
+84,Ples zmajeva,650-17-29835-9,1963,Posuđeno,10,15
+85,Pustolovine Huckleberryja Finna,909-72-53608-4,2019,Rezervirano,18,27
+86,Tajni agent,200-29-70554-9,1995,Posuđeno,7,9
+87,Tihi američki,283-90-41659-5,2017,Rezervirano,17,12
+88,Božanstvena komedija,998-19-12417-1,1907,Rezervirano,2,5
+89,Anđeli i demoni,784-81-35343-9,1993,Dostupno,12,10
+90,Plavi anđeo,699-41-14086-4,1928,Rezervirano,19,29
+91,Orkanski visovi,665-61-30815-1,1957,Dostupno,3,19
+92,Sto godina samoće,764-54-85358-1,1961,Rezervirano,2,11
+93,Dnevnik Anne Frank,651-15-27450-7,1977,Posuđeno,2,27
+94,Grofica Monte Cristo,967-21-70892-9,2021,Dostupno,5,16
+95,Ponos i predrasude,466-73-70766-8,1923,Dostupno,19,13
+96,Petar Pan,721-45-70201-8,1952,Rezervirano,20,29
+97,Ivica i Marica,291-31-50117-9,1991,Rezervirano,10,19
+98,Bog malih stvari,753-68-96576-1,2009,Dostupno,15,16
+99,Kći Lotrščaka,771-87-37323-8,1938,Dostupno,13,20
+100,Opsada,617-73-35897-8,1913,Rezervirano,4,24
+101,Bratstvo i jedinstvo,778-96-42716-8,1906,Posuđeno,13,7
+102,To,604-42-56769-5,1901,Posuđeno,3,3
+103,Nebo u kavezu,989-66-80944-2,1908,Posuđeno,1,1
+104,Jantarni teleskop,306-75-39084-4,1923,Posuđeno,16,10
+105,Harry Potter i Princ miješane krvi,514-60-66131-6,2012,Posuđeno,15,29
+106,Žena u kavezu,601-54-95444-6,1927,Posuđeno,3,7
+107,Romeo i Julija,908-34-15655-4,1902,Posuđeno,20,18
+108,Sjećanje na moje tužne kurve,122-98-42075-8,1904,Rezervirano,11,25
+109,Crvenkapica,349-62-62517-9,1924,Rezervirano,9,5
+110,Harry Potter i odaja tajni,774-18-27514-2,2014,Posuđeno,7,8
+111,Zvijezde su slijedile mjesec,283-18-50171-5,1952,Rezervirano,19,20
+112,Gulliverova putovanja,873-54-29211-3,1995,Dostupno,16,7
+113,Knjiga o džungli,539-13-93253-5,1986,Rezervirano,15,17
+114,Tihi američki,165-85-20596-5,1995,Rezervirano,11,14
+115,Pogled s mosta,221-61-97214-5,1926,Posuđeno,14,4
+116,Zeleni dom,711-41-95559-7,1950,Posuđeno,9,3
+117,Ljepotica i zvijer,817-78-10882-6,1900,Rezervirano,9,19
+118,Petar Pan,399-69-21616-8,2016,Posuđeno,2,13
+119,Jantarni teleskop,719-81-14289-5,1954,Rezervirano,16,30
+120,Ples zmajeva,665-63-78308-4,2024,Posuđeno,15,30
+121,1984,806-14-67694-7,1910,Rezervirano,3,4
+122,Njegova mračna tvar,456-46-87554-4,1917,Dostupno,20,20
+123,Božanstvena komedija,930-57-65208-4,1983,Rezervirano,10,29
+124,Harry Potter i kamen mudraca,408-49-73753-9,1968,Dostupno,7,1
+125,Šifra Leonarda da Vincija,195-92-99067-5,1963,Dostupno,8,27
+126,Grofica Monte Cristo,440-93-15450-4,2005,Posuđeno,18,26
+127,Zločin i kazna,338-39-84645-2,1987,Posuđeno,6,13
+128,Hamlet,469-35-63335-3,2012,Rezervirano,13,17
+129,Orkanski visovi,550-60-34035-6,1978,Rezervirano,19,11
+130,Čarobnjak iz Oza,346-38-50540-3,1963,Dostupno,10,18
+131,Ples zmajeva,806-92-83981-9,1987,Posuđeno,5,14
+132,Harry Potter i zarobljenik Azkabana,728-97-46766-5,1937,Dostupno,8,10
+133,Jantarni teleskop,915-10-33598-2,1923,Dostupno,19,12
+134,Peti svjedok,784-39-64959-4,1910,Rezervirano,15,20
+135,Pustolovine Huckleberryja Finna,161-68-58274-7,2021,Posuđeno,15,28
+136,Djevojka s tetovažom zmaja,127-17-38794-9,1993,Posuđeno,3,5
+137,Veliki Gatsby,575-55-30294-9,2000,Rezervirano,3,21
+138,Put svile,861-80-80324-7,1915,Rezervirano,4,24
+139,Čovjek po imenu Ove,911-24-34734-8,1969,Posuđeno,14,10
+140,Harry Potter i odaja tajni,445-34-30738-7,1923,Posuđeno,10,3
+141,Snjeguljica,854-47-85749-6,2019,Rezervirano,12,9
+142,Hamlet,935-95-34058-8,1964,Posuđeno,17,30
+143,Mali princ,982-54-52855-1,1944,Posuđeno,13,5
+144,Patnje mladog Werthera,391-38-39144-3,2009,Dostupno,1,21
+145,Derviš i smrt,735-76-72299-3,1934,Posuđeno,10,3
+146,Sjena vjetra,597-21-51321-4,1951,Rezervirano,20,4
+147,Knjiga o džungli,707-95-45887-2,2012,Posuđeno,4,10
+148,Sjene nad Balkanom,257-31-64918-3,1970,Dostupno,1,21
+149,Gozba vrana,990-88-26258-3,2006,Dostupno,5,18
+150,Kapetanova kći,419-16-16564-3,1971,Dostupno,1,19
+151,Pogled s mosta,889-38-56180-1,1934,Rezervirano,7,2
+152,Božanstvena komedija,809-65-67667-5,2022,Rezervirano,2,29
+153,Derviš i smrt,299-43-47754-5,1940,Posuđeno,7,8
+154,Zeleni dom,129-79-96942-5,1986,Posuđeno,10,29
+155,Put oko svijeta u 80 dana,796-84-93778-9,2024,Rezervirano,7,28
+156,Krila galeba,819-72-78892-7,1980,Posuđeno,9,8
+157,Tihi američki,749-30-89265-3,1917,Dostupno,11,7
+158,Kraljević i prosjak,434-14-57378-7,1933,Dostupno,17,11
+159,Bezimeni grobovi,696-99-75135-5,1934,Dostupno,3,20
+160,Zvijezde sjaje na nebu,550-17-28661-8,1929,Posuđeno,18,23
+161,Otok s blagom,997-20-41168-4,1948,Posuđeno,18,25
+162,Na zapadu ništa novo,168-55-88195-5,2007,Dostupno,6,18
+163,Ponos i predrasude,412-36-42571-4,2023,Dostupno,18,19
+164,Snjeguljica,607-61-38191-3,1959,Dostupno,14,30
+165,Pogled s mosta,418-91-74445-4,1953,Rezervirano,4,8
+166,Priručnik za anđele,377-94-43478-2,1984,Rezervirano,5,18
+167,Emma,353-78-47845-6,1965,Posuđeno,12,26
+168,Bog malih stvari,190-96-13994-7,1976,Rezervirano,17,13
+169,Besmrtna Henrietta Lacks,900-69-30543-1,1999,Posuđeno,7,22
+170,Sto godina samoće,279-69-13240-6,1989,Rezervirano,20,24
+171,Mali princ,539-25-91816-2,1920,Posuđeno,9,14
+172,Moje ime je crveno,959-29-22454-5,1925,Dostupno,10,30
+173,David Copperfield,516-29-46953-6,1908,Posuđeno,17,26
+174,Harry Potter i zarobljenik Azkabana,401-62-86180-9,1970,Posuđeno,20,3
+175,Romeo i Julija,376-48-46695-1,1988,Dostupno,15,27
+176,Grofica Monte Cristo,402-82-56514-5,1945,Rezervirano,17,23
+177,Derviš i smrt,779-28-38613-4,1920,Dostupno,3,2
+178,Ljepotica i zvijer,693-65-46481-6,1988,Rezervirano,12,26
+179,To,632-88-45741-1,1904,Rezervirano,2,12
+180,Peti svjedok,529-23-28581-9,1948,Dostupno,6,14
+181,Mačak u čizmama,290-16-47120-3,1978,Rezervirano,7,5
+182,Orkanski visovi,204-10-18879-8,1937,Posuđeno,13,22
+183,Mrtve duše,820-57-20010-1,1955,Posuđeno,11,14
+184,Ilijada,247-72-18174-7,1938,Posuđeno,20,4
+185,Don Quijote,926-33-95053-7,1957,Rezervirano,9,7
+186,Tri mušketira,685-67-61604-3,1970,Posuđeno,6,25
+187,Alisa u zemlji čudesa,842-90-95781-7,1932,Dostupno,18,4
+188,Noćni vlak za Lisabon,384-43-87095-9,1997,Posuđeno,8,4
+189,Groblje kućnih ljubimaca,833-76-20719-1,1961,Rezervirano,1,21
+190,Ivica i Marica,984-50-92286-4,2000,Dostupno,4,4
+191,Lovac u žitu,254-73-95597-6,1985,Posuđeno,16,10
+192,Sto godina samoće,532-91-89831-4,1918,Rezervirano,20,1
+193,Čovjek po imenu Ove,507-97-72377-8,2018,Posuđeno,13,26
+194,Izgubljeni simbol,568-22-14880-5,2008,Rezervirano,1,29
+195,Ples zmajeva,922-66-85139-4,1921,Rezervirano,19,16
+196,Romeo i Julija,663-33-19413-2,2004,Dostupno,6,21
+197,Vlak u snijegu,585-16-46712-7,1938,Posuđeno,2,19
+198,Mrtve duše,723-83-72775-5,1975,Posuđeno,3,21
+199,David Copperfield,254-49-79945-1,1995,Dostupno,1,24
+200,Igra prijestolja,953-50-49123-9,1938,Rezervirano,18,9
