@@ -1,5 +1,5 @@
 KnjigaID,Lokacija,Status
-1,Magacin,Rezervisano
+1,Magacin,Rezervirano
 2,Polica B2,Dostupno
 3,Polica A1,Dostupno
 4,Polica C3,Posuđeno
@@ -8,47 +8,47 @@ KnjigaID,Lokacija,Status
 7,Magacin,Dostupno
 8,Čitaonica,Oštećeno
 9,Magacin,Posuđeno
-10,Polica B2,Rezervisano
+10,Polica B2,Rezervirano
 11,Polica C3,Oštećeno
-12,Polica A1,Rezervisano
+12,Polica A1,Rezervirano
 13,Polica C3,Posuđeno
-14,Polica C3,Rezervisano
+14,Polica C3,Rezervirano
 15,Polica A1,Dostupno
 16,Polica B2,Oštećeno
 17,Magacin,Oštećeno
 18,Polica B2,Dostupno
 19,Polica B2,Posuđeno
-20,Polica A1,Rezervisano
-21,Magacin,Rezervisano
+20,Polica A1,Rezervirano
+21,Magacin,Rezervirano
 22,Polica C3,Posuđeno
 23,Polica C3,Dostupno
 24,Polica B2,Oštećeno
-25,Magacin,Rezervisano
+25,Magacin,Rezervirano
 26,Polica C3,Posuđeno
 27,Čitaonica,Dostupno
 28,Polica B2,Oštećeno
 29,Čitaonica,Dostupno
-30,Čitaonica,Rezervisano
+30,Čitaonica,Rezervirano
 31,Polica A1,Oštećeno
-32,Polica A1,Rezervisano
+32,Polica A1,Rezervirano
 33,Polica A1,Dostupno
-34,Čitaonica,Rezervisano
+34,Čitaonica,Rezervirano
 35,Magacin,Dostupno
 36,Polica A1,Oštećeno
 37,Polica B2,Posuđeno
-38,Polica A1,Rezervisano
+38,Polica A1,Rezervirano
 39,Čitaonica,Posuđeno
 40,Magacin,Posuđeno
 41,Polica B2,Oštećeno
 42,Magacin,Dostupno
-43,Polica A1,Rezervisano
+43,Polica A1,Rezervirano
 44,Čitaonica,Oštećeno
 45,Polica C3,Posuđeno
 46,Polica A1,Oštećeno
 47,Polica A1,Oštećeno
 48,Magacin,Dostupno
-49,Magacin,Rezervisano
-50,Polica B2,Rezervisano
+49,Magacin,Rezervirano
+50,Polica B2,Rezervirano
 51,Polica B2,Posuđeno
 52,Polica C3,Dostupno
 53,Polica C3,Oštećeno
@@ -62,55 +62,55 @@ KnjigaID,Lokacija,Status
 61,Polica A1,Posuđeno
 62,Čitaonica,Dostupno
 63,Čitaonica,Oštećeno
-64,Čitaonica,Rezervisano
+64,Čitaonica,Rezervirano
 65,Polica C3,Oštećeno
 66,Polica A1,Posuđeno
-67,Polica A1,Rezervisano
+67,Polica A1,Rezervirano
 68,Čitaonica,Dostupno
-69,Magacin,Rezervisano
-70,Čitaonica,Rezervisano
+69,Magacin,Rezervirano
+70,Čitaonica,Rezervirano
 71,Čitaonica,Posuđeno
 72,Polica B2,Oštećeno
 73,Polica B2,Oštećeno
 74,Čitaonica,Posuđeno
-75,Magacin,Rezervisano
+75,Magacin,Rezervirano
 76,Magacin,Dostupno
 77,Polica A1,Posuđeno
 78,Polica A1,Dostupno
-79,Polica C3,Rezervisano
+79,Polica C3,Rezervirano
 80,Polica A1,Posuđeno
 81,Polica B2,Dostupno
-82,Polica B2,Rezervisano
-83,Čitaonica,Rezervisano
+82,Polica B2,Rezervirano
+83,Čitaonica,Rezervirano
 84,Čitaonica,Posuđeno
-85,Čitaonica,Rezervisano
+85,Čitaonica,Rezervirano
 86,Magacin,Oštećeno
 87,Magacin,Posuđeno
 88,Polica A1,Posuđeno
 89,Magacin,Dostupno
 90,Magacin,Dostupno
 91,Polica A1,Posuđeno
-92,Polica A1,Rezervisano
-93,Polica B2,Rezervisano
-94,Čitaonica,Rezervisano
+92,Polica A1,Rezervirano
+93,Polica B2,Rezervirano
+94,Čitaonica,Rezervirano
 95,Polica B2,Oštećeno
 96,Polica C3,Oštećeno
-97,Čitaonica,Rezervisano
-98,Polica B2,Rezervisano
+97,Čitaonica,Rezervirano
+98,Polica B2,Rezervirano
 99,Čitaonica,Posuđeno
-100,Polica C3,Rezervisano
-101,Čitaonica,Rezervisano
+100,Polica C3,Rezervirano
+101,Čitaonica,Rezervirano
 102,Polica B2,Dostupno
-103,Magacin,Rezervisano
-104,Čitaonica,Rezervisano
+103,Magacin,Rezervirano
+104,Čitaonica,Rezervirano
 105,Čitaonica,Dostupno
 106,Magacin,Dostupno
 107,Polica B2,Dostupno
-108,Polica C3,Rezervisano
+108,Polica C3,Rezervirano
 109,Polica A1,Posuđeno
 110,Čitaonica,Posuđeno
 111,Polica A1,Posuđeno
-112,Polica B2,Rezervisano
+112,Polica B2,Rezervirano
 113,Polica A1,Oštećeno
 114,Magacin,Posuđeno
 115,Polica A1,Oštećeno
@@ -120,8 +120,8 @@ KnjigaID,Lokacija,Status
 119,Polica A1,Oštećeno
 120,Čitaonica,Oštećeno
 121,Čitaonica,Dostupno
-122,Polica B2,Rezervisano
-123,Polica A1,Rezervisano
+122,Polica B2,Rezervirano
+123,Polica A1,Rezervirano
 124,Magacin,Posuđeno
 125,Polica A1,Dostupno
 126,Polica C3,Dostupno
@@ -130,59 +130,59 @@ KnjigaID,Lokacija,Status
 129,Čitaonica,Oštećeno
 130,Čitaonica,Oštećeno
 131,Čitaonica,Posuđeno
-132,Čitaonica,Rezervisano
+132,Čitaonica,Rezervirano
 133,Čitaonica,Oštećeno
 134,Polica C3,Oštećeno
-135,Polica B2,Rezervisano
+135,Polica B2,Rezervirano
 136,Polica A1,Oštećeno
 137,Polica C3,Oštećeno
 138,Polica C3,Oštećeno
 139,Magacin,Oštećeno
 140,Polica A1,Dostupno
-141,Magacin,Rezervisano
-142,Polica B2,Rezervisano
+141,Magacin,Rezervirano
+142,Polica B2,Rezervirano
 143,Polica C3,Posuđeno
 144,Polica B2,Oštećeno
-145,Polica C3,Rezervisano
+145,Polica C3,Rezervirano
 146,Čitaonica,Posuđeno
 147,Magacin,Dostupno
-148,Magacin,Rezervisano
+148,Magacin,Rezervirano
 149,Čitaonica,Dostupno
-150,Magacin,Rezervisano
+150,Magacin,Rezervirano
 151,Polica B2,Posuđeno
 152,Polica A1,Posuđeno
 153,Polica A1,Dostupno
 154,Polica A1,Dostupno
 155,Čitaonica,Dostupno
-156,Polica A1,Rezervisano
+156,Polica A1,Rezervirano
 157,Polica B2,Oštećeno
-158,Čitaonica,Rezervisano
+158,Čitaonica,Rezervirano
 159,Polica C3,Dostupno
 160,Polica C3,Posuđeno
-161,Polica B2,Rezervisano
+161,Polica B2,Rezervirano
 162,Polica A1,Dostupno
 163,Polica C3,Posuđeno
 164,Polica A1,Dostupno
 165,Magacin,Oštećeno
-166,Čitaonica,Rezervisano
+166,Čitaonica,Rezervirano
 167,Magacin,Dostupno
 168,Polica C3,Dostupno
-169,Magacin,Rezervisano
-170,Polica B2,Rezervisano
+169,Magacin,Rezervirano
+170,Polica B2,Rezervirano
 171,Polica C3,Dostupno
 172,Čitaonica,Dostupno
 173,Čitaonica,Posuđeno
 174,Polica A1,Dostupno
-175,Polica C3,Rezervisano
+175,Polica C3,Rezervirano
 176,Magacin,Oštećeno
 177,Magacin,Oštećeno
 178,Polica B2,Posuđeno
 179,Polica B2,Dostupno
-180,Polica A1,Rezervisano
+180,Polica A1,Rezervirano
 181,Polica B2,Oštećeno
 182,Magacin,Posuđeno
 183,Polica B2,Oštećeno
-184,Polica B2,Rezervisano
+184,Polica B2,Rezervirano
 185,Čitaonica,Dostupno
 186,Polica B2,Posuđeno
 187,Polica A1,Dostupno
@@ -193,9 +193,9 @@ KnjigaID,Lokacija,Status
 192,Polica A1,Oštećeno
 193,Magacin,Oštećeno
 194,Čitaonica,Posuđeno
-195,Čitaonica,Rezervisano
-196,Polica C3,Rezervisano
+195,Čitaonica,Rezervirano
+196,Polica C3,Rezervirano
 197,Polica A1,Posuđeno
 198,Polica C3,Dostupno
-199,Čitaonica,Rezervisano
+199,Čitaonica,Rezervirano
 200,Polica A1,Posuđeno
