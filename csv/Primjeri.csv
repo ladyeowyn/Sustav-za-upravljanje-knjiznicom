@@ -1,201 +1,201 @@
-KnjigaID,Lokacija,Status
-1,Skladište,Rezervirano
-2,Polica B2,Dostupno
-3,Polica A1,Dostupno
-4,Polica C3,Posuđeno
-5,Skladište,Posuđeno
-6,Čitaonica,Dostupno
-7,Skladište,Dostupno
-8,Čitaonica,Oštećeno
-9,Skladište,Posuđeno
-10,Polica B2,Rezervirano
-11,Polica C3,Oštećeno
-12,Polica A1,Rezervirano
-13,Polica C3,Posuđeno
-14,Polica C3,Rezervirano
-15,Polica A1,Dostupno
-16,Polica B2,Oštećeno
-17,Skladište,Oštećeno
-18,Polica B2,Dostupno
-19,Polica B2,Posuđeno
-20,Polica A1,Rezervirano
-21,Skladište,Rezervirano
-22,Polica C3,Posuđeno
-23,Polica C3,Dostupno
-24,Polica B2,Oštećeno
-25,Skladište,Rezervirano
-26,Polica C3,Posuđeno
-27,Čitaonica,Dostupno
-28,Polica B2,Oštećeno
-29,Čitaonica,Dostupno
-30,Čitaonica,Rezervirano
-31,Polica A1,Oštećeno
-32,Polica A1,Rezervirano
-33,Polica A1,Dostupno
-34,Čitaonica,Rezervirano
-35,Skladište,Dostupno
-36,Polica A1,Oštećeno
-37,Polica B2,Posuđeno
-38,Polica A1,Rezervirano
-39,Čitaonica,Posuđeno
-40,Skladište,Posuđeno
-41,Polica B2,Oštećeno
-42,Skladište,Dostupno
-43,Polica A1,Rezervirano
-44,Čitaonica,Oštećeno
-45,Polica C3,Posuđeno
-46,Polica A1,Oštećeno
-47,Polica A1,Oštećeno
-48,Skladište,Dostupno
-49,Skladište,Rezervirano
-50,Polica B2,Rezervirano
-51,Polica B2,Posuđeno
-52,Polica C3,Dostupno
-53,Polica C3,Oštećeno
-54,Polica C3,Posuđeno
-55,Polica A1,Posuđeno
-56,Polica A1,Dostupno
-57,Skladište,Posuđeno
-58,Polica C3,Dostupno
-59,Polica B2,Posuđeno
-60,Polica C3,Posuđeno
-61,Polica A1,Posuđeno
-62,Čitaonica,Dostupno
-63,Čitaonica,Oštećeno
-64,Čitaonica,Rezervirano
-65,Polica C3,Oštećeno
-66,Polica A1,Posuđeno
-67,Polica A1,Rezervirano
-68,Čitaonica,Dostupno
-69,Skladište,Rezervirano
-70,Čitaonica,Rezervirano
-71,Čitaonica,Posuđeno
-72,Polica B2,Oštećeno
-73,Polica B2,Oštećeno
-74,Čitaonica,Posuđeno
-75,Skladište,Rezervirano
-76,Skladište,Dostupno
-77,Polica A1,Posuđeno
-78,Polica A1,Dostupno
-79,Polica C3,Rezervirano
-80,Polica A1,Posuđeno
-81,Polica B2,Dostupno
-82,Polica B2,Rezervirano
-83,Čitaonica,Rezervirano
-84,Čitaonica,Posuđeno
-85,Čitaonica,Rezervirano
-86,Skladište,Oštećeno
-87,Skladište,Posuđeno
-88,Polica A1,Posuđeno
-89,Skladište,Dostupno
-90,Skladište,Dostupno
-91,Polica A1,Posuđeno
-92,Polica A1,Rezervirano
-93,Polica B2,Rezervirano
-94,Čitaonica,Rezervirano
-95,Polica B2,Oštećeno
-96,Polica C3,Oštećeno
-97,Čitaonica,Rezervirano
-98,Polica B2,Rezervirano
-99,Čitaonica,Posuđeno
-100,Polica C3,Rezervirano
-101,Čitaonica,Rezervirano
-102,Polica B2,Dostupno
-103,Skladište,Rezervirano
-104,Čitaonica,Rezervirano
-105,Čitaonica,Dostupno
-106,Skladište,Dostupno
-107,Polica B2,Dostupno
-108,Polica C3,Rezervirano
-109,Polica A1,Posuđeno
-110,Čitaonica,Posuđeno
-111,Polica A1,Posuđeno
-112,Polica B2,Rezervirano
-113,Polica A1,Oštećeno
-114,Skladište,Posuđeno
-115,Polica A1,Oštećeno
-116,Skladište,Dostupno
-117,Polica B2,Oštećeno
-118,Polica B2,Oštećeno
-119,Polica A1,Oštećeno
-120,Čitaonica,Oštećeno
-121,Čitaonica,Dostupno
-122,Polica B2,Rezervirano
-123,Polica A1,Rezervirano
-124,Skladište,Posuđeno
-125,Polica A1,Dostupno
-126,Polica C3,Dostupno
-127,Polica C3,Dostupno
-128,Polica C3,Posuđeno
-129,Čitaonica,Oštećeno
-130,Čitaonica,Oštećeno
-131,Čitaonica,Posuđeno
-132,Čitaonica,Rezervirano
-133,Čitaonica,Oštećeno
-134,Polica C3,Oštećeno
-135,Polica B2,Rezervirano
-136,Polica A1,Oštećeno
-137,Polica C3,Oštećeno
-138,Polica C3,Oštećeno
-139,Skladište,Oštećeno
-140,Polica A1,Dostupno
-141,Skladište,Rezervirano
-142,Polica B2,Rezervirano
-143,Polica C3,Posuđeno
-144,Polica B2,Oštećeno
-145,Polica C3,Rezervirano
-146,Čitaonica,Posuđeno
-147,Skladište,Dostupno
-148,Skladište,Rezervirano
-149,Čitaonica,Dostupno
-150,Skladište,Rezervirano
-151,Polica B2,Posuđeno
-152,Polica A1,Posuđeno
-153,Polica A1,Dostupno
-154,Polica A1,Dostupno
-155,Čitaonica,Dostupno
-156,Polica A1,Rezervirano
-157,Polica B2,Oštećeno
-158,Čitaonica,Rezervirano
-159,Polica C3,Dostupno
-160,Polica C3,Posuđeno
-161,Polica B2,Rezervirano
-162,Polica A1,Dostupno
-163,Polica C3,Posuđeno
-164,Polica A1,Dostupno
-165,Skladište,Oštećeno
-166,Čitaonica,Rezervirano
-167,Skladište,Dostupno
-168,Polica C3,Dostupno
-169,Skladište,Rezervirano
-170,Polica B2,Rezervirano
-171,Polica C3,Dostupno
-172,Čitaonica,Dostupno
-173,Čitaonica,Posuđeno
-174,Polica A1,Dostupno
-175,Polica C3,Rezervirano
-176,Skladište,Oštećeno
-177,Skladište,Oštećeno
-178,Polica B2,Posuđeno
-179,Polica B2,Dostupno
-180,Polica A1,Rezervirano
-181,Polica B2,Oštećeno
-182,Skladište,Posuđeno
-183,Polica B2,Oštećeno
-184,Polica B2,Rezervirano
-185,Čitaonica,Dostupno
-186,Polica B2,Posuđeno
-187,Polica A1,Dostupno
-188,Polica B2,Posuđeno
-189,Čitaonica,Oštećeno
-190,Polica A1,Oštećeno
-191,Polica B2,Posuđeno
-192,Polica A1,Oštećeno
-193,Skladište,Oštećeno
-194,Čitaonica,Posuđeno
-195,Čitaonica,Rezervirano
-196,Polica C3,Rezervirano
-197,Polica A1,Posuđeno
-198,Polica C3,Dostupno
-199,Čitaonica,Rezervirano
-200,Polica A1,Posuđeno
+PrimjeriID,KnjigaID,Lokacija,Status
+1,1,Skladište,Rezervirano
+2,2,Polica B2,Dostupno
+3,3,Polica A1,Dostupno
+4,4,Polica C3,Posuđeno
+5,5,Skladište,Posuđeno
+6,6,Čitaonica,Dostupno
+7,7,Skladište,Dostupno
+8,8,Čitaonica,Oštećeno
+9,9,Skladište,Posuđeno
+10,10,Polica B2,Rezervirano
+11,11,Polica C3,Oštećeno
+12,12,Polica A1,Rezervirano
+13,13,Polica C3,Posuđeno
+14,14,Polica C3,Rezervirano
+15,15,Polica A1,Dostupno
+16,16,Polica B2,Oštećeno
+17,17,Skladište,Oštećeno
+18,18,Polica B2,Dostupno
+19,19,Polica B2,Posuđeno
+20,20,Polica A1,Rezervirano
+21,21,Skladište,Rezervirano
+22,22,Polica C3,Posuđeno
+23,23,Polica C3,Dostupno
+24,24,Polica B2,Oštećeno
+25,25,Skladište,Rezervirano
+26,26,Polica C3,Posuđeno
+27,27,Čitaonica,Dostupno
+28,28,Polica B2,Oštećeno
+29,29,Čitaonica,Dostupno
+30,30,Čitaonica,Rezervirano
+31,31,Polica A1,Oštećeno
+32,32,Polica A1,Rezervirano
+33,33,Polica A1,Dostupno
+34,34,Čitaonica,Rezervirano
+35,35,Skladište,Dostupno
+36,36,Polica A1,Oštećeno
+37,37,Polica B2,Posuđeno
+38,38,Polica A1,Rezervirano
+39,39,Čitaonica,Posuđeno
+40,40,Skladište,Posuđeno
+41,41,Polica B2,Oštećeno
+42,42,Skladište,Dostupno
+43,43,Polica A1,Rezervirano
+44,44,Čitaonica,Oštećeno
+45,45,Polica C3,Posuđeno
+46,46,Polica A1,Oštećeno
+47,47,Polica A1,Oštećeno
+48,48,Skladište,Dostupno
+49,49,Skladište,Rezervirano
+50,50,Polica B2,Rezervirano
+51,51,Polica B2,Posuđeno
+52,52,Polica C3,Dostupno
+53,53,Polica C3,Oštećeno
+54,54,Polica C3,Posuđeno
+55,55,Polica A1,Posuđeno
+56,56,Polica A1,Dostupno
+57,57,Skladište,Posuđeno
+58,58,Polica C3,Dostupno
+59,59,Polica B2,Posuđeno
+60,60,Polica C3,Posuđeno
+61,61,Polica A1,Posuđeno
+62,62,Čitaonica,Dostupno
+63,63,Čitaonica,Oštećeno
+64,64,Čitaonica,Rezervirano
+65,65,Polica C3,Oštećeno
+66,66,Polica A1,Posuđeno
+67,67,Polica A1,Rezervirano
+68,68,Čitaonica,Dostupno
+69,69,Skladište,Rezervirano
+70,70,Čitaonica,Rezervirano
+71,71,Čitaonica,Posuđeno
+72,72,Polica B2,Oštećeno
+73,73,Polica B2,Oštećeno
+74,74,Čitaonica,Posuđeno
+75,75,Skladište,Rezervirano
+76,76,Skladište,Dostupno
+77,77,Polica A1,Posuđeno
+78,78,Polica A1,Dostupno
+79,79,Polica C3,Rezervirano
+80,80,Polica A1,Posuđeno
+81,81,Polica B2,Dostupno
+82,82,Polica B2,Rezervirano
+83,83,Čitaonica,Rezervirano
+84,84,Čitaonica,Posuđeno
+85,85,Čitaonica,Rezervirano
+86,86,Skladište,Oštećeno
+87,87,Skladište,Posuđeno
+88,88,Polica A1,Posuđeno
+89,89,Skladište,Dostupno
+90,90,Skladište,Dostupno
+91,91,Polica A1,Posuđeno
+92,92,Polica A1,Rezervirano
+93,93,Polica B2,Rezervirano
+94,94,Čitaonica,Rezervirano
+95,95,Polica B2,Oštećeno
+96,96,Polica C3,Oštećeno
+97,97,Čitaonica,Rezervirano
+98,98,Polica B2,Rezervirano
+99,99,Čitaonica,Posuđeno
+100,100,Polica C3,Rezervirano
+101,101,Čitaonica,Rezervirano
+102,102,Polica B2,Dostupno
+103,103,Skladište,Rezervirano
+104,104,Čitaonica,Rezervirano
+105,105,Čitaonica,Dostupno
+106,106,Skladište,Dostupno
+107,107,Polica B2,Dostupno
+108,108,Polica C3,Rezervirano
+109,109,Polica A1,Posuđeno
+110,110,Čitaonica,Posuđeno
+111,111,Polica A1,Posuđeno
+112,112,Polica B2,Rezervirano
+113,113,Polica A1,Oštećeno
+114,114,Skladište,Posuđeno
+115,115,Polica A1,Oštećeno
+116,116,Skladište,Dostupno
+117,117,Polica B2,Oštećeno
+118,118,Polica B2,Oštećeno
+119,119,Polica A1,Oštećeno
+120,120,Čitaonica,Oštećeno
+121,121,Čitaonica,Dostupno
+122,122,Polica B2,Rezervirano
+123,123,Polica A1,Rezervirano
+124,124,Skladište,Posuđeno
+125,125,Polica A1,Dostupno
+126,126,Polica C3,Dostupno
+127,127,Polica C3,Dostupno
+128,128,Polica C3,Posuđeno
+129,129,Čitaonica,Oštećeno
+130,130,Čitaonica,Oštećeno
+131,131,Čitaonica,Posuđeno
+132,132,Čitaonica,Rezervirano
+133,133,Čitaonica,Oštećeno
+134,134,Polica C3,Oštećeno
+135,135,Polica B2,Rezervirano
+136,136,Polica A1,Oštećeno
+137,137,Polica C3,Oštećeno
+138,138,Polica C3,Oštećeno
+139,139,Skladište,Oštećeno
+140,140,Polica A1,Dostupno
+141,141,Skladište,Rezervirano
+142,142,Polica B2,Rezervirano
+143,143,Polica C3,Posuđeno
+144,144,Polica B2,Oštećeno
+145,145,Polica C3,Rezervirano
+146,146,Čitaonica,Posuđeno
+147,147,Skladište,Dostupno
+148,148,Skladište,Rezervirano
+149,149,Čitaonica,Dostupno
+150,150,Skladište,Rezervirano
+151,151,Polica B2,Posuđeno
+152,152,Polica A1,Posuđeno
+153,153,Polica A1,Dostupno
+154,154,Polica A1,Dostupno
+155,155,Čitaonica,Dostupno
+156,156,Polica A1,Rezervirano
+157,157,Polica B2,Oštećeno
+158,158,Čitaonica,Rezervirano
+159,159,Polica C3,Dostupno
+160,160,Polica C3,Posuđeno
+161,161,Polica B2,Rezervirano
+162,162,Polica A1,Dostupno
+163,163,Polica C3,Posuđeno
+164,164,Polica A1,Dostupno
+165,165,Skladište,Oštećeno
+166,166,Čitaonica,Rezervirano
+167,167,Skladište,Dostupno
+168,168,Polica C3,Dostupno
+169,169,Skladište,Rezervirano
+170,170,Polica B2,Rezervirano
+171,171,Polica C3,Dostupno
+172,172,Čitaonica,Dostupno
+173,173,Čitaonica,Posuđeno
+174,174,Polica A1,Dostupno
+175,175,Polica C3,Rezervirano
+176,176,Skladište,Oštećeno
+177,177,Skladište,Oštećeno
+178,178,Polica B2,Posuđeno
+179,179,Polica B2,Dostupno
+180,180,Polica A1,Rezervirano
+181,181,Polica B2,Oštećeno
+182,182,Skladište,Posuđeno
+183,183,Polica B2,Oštećeno
+184,184,Polica B2,Rezervirano
+185,185,Čitaonica,Dostupno
+186,186,Polica B2,Posuđeno
+187,187,Polica A1,Dostupno
+188,188,Polica B2,Posuđeno
+189,189,Čitaonica,Oštećeno
+190,190,Polica A1,Oštećeno
+191,191,Polica B2,Posuđeno
+192,192,Polica A1,Oštećeno
+193,193,Skladište,Oštećeno
+194,194,Čitaonica,Posuđeno
+195,195,Čitaonica,Rezervirano
+196,196,Polica C3,Rezervirano
+197,197,Polica A1,Posuđeno
+198,198,Polica C3,Dostupno
+199,199,Čitaonica,Rezervirano
+200,200,Polica A1,Posuđeno
