@@ -15,7 +15,7 @@ Ovaj direktorij sadrži moj doprinos timskom projektu iz kolegija Baze podataka.
 
 | Datoteka | Opis |
 |----------|------|
-| `baza_knjiznice.sql` | Potpuni dump baze podataka (struktura + podaci) |
+| `baza_knjiznice_dump_20250504.sql` | Potpuni dump baze podataka (struktura + podaci) |
 | `shema.sql` | Osnovna shema relevantnih tablica za moj modul |
 | `README.md` | Ovaj dokument |
 | `Dokumentacija-Daniel-Katic.pdf` | Tehnička dokumentacija mog modula kao PDF |
