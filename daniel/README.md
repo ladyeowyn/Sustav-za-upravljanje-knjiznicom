@@ -1,5 +1,7 @@
 # 📚 Sustav za upravljanje knjižnicom – Daniel Katić
 
+[Video projekta na YouTubeu](https://youtu.be/5l-iRAcERag)
+
 ## 🔍 Opis
 
 Ovaj direktorij sadrži moj doprinos timskom projektu iz kolegija Baze podataka. Fokus je bio na izradi i implementaciji modula baze koji obuhvaća:
