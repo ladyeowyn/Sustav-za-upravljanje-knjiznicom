@@ -41,6 +41,12 @@ Ovaj direktorij sadrži moj doprinos timskom projektu iz kolegija Baze podataka.
 4. **`mjesecne_kazne`**  
    Mjesečni pregled iznosa kazni s grupiranjem po godini i mjesecu.
 
+5. **`knjige_najvece_kasnjenje`**  
+   Za svaku knjigu zbroj ukupno dana zakašnjenja pri vraćanju.
+
+6. **`broj_posudbi_po_izdavacu`**  
+   Za svakog izdavača prikazuje koliko je puta posuđena barem jedna njihova knjiga.
+
 ---
 
 ## ⚙️ Upute za korištenje
