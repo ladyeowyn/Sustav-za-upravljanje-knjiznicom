@@ -1,6 +1,6 @@
 # 📚 Sustav za upravljanje knjižnicom – Daniel Katić
 
-[Video projekta na YouTubeu](https://youtu.be/yxkkMPhwbZ8)
+[Video projekta na YouTubeu](https://www.youtube.com/watch?v=JFmXtbYQpQM)
 
 ## 🔍 Opis
 
