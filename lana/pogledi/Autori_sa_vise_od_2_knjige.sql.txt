@@ -1,0 +1,12 @@
+-- sve knjige od autora koji su napisali više od 2 knjige
+CREATE VIEW Autori_sa_vise_od_2_knjige AS
+SELECT k.Naslov, a.ImePrezime
+FROM knjige AS k
+JOIN knjigaautori AS ka ON k.KnjigaID = ka.KnjigaID
+JOIN autori a ON ka.AutorID = a.AutorID
+WHERE a.AutorID IN (
+    SELECT AutorID
+    FROM knjigaautori
+    GROUP BY AutorID
+    HAVING COUNT(DISTINCT KnjigaID) > 2
+);

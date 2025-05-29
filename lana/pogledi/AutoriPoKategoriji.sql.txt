@@ -1,0 +1,14 @@
+-- pogled autora po kategoriji te uključen broj knjiga koje su napisali u toj kategoriji
+CREATE VIEW AutoriPoKategoriji AS
+SELECT 
+  a.AutorID, 
+  a.ImePrezime, 
+  k.KategorijaID, 
+  kat.Naziv AS NazivKategorije,
+  COUNT(k.KnjigaID) AS BrojKnjigaUKategoriji
+FROM autori a
+JOIN knjigaautori ka ON a.AutorID = ka.AutorID
+JOIN knjige k ON ka.KnjigaID = k.KnjigaID
+JOIN kategorije kat ON k.KategorijaID = kat.KategorijaID
+GROUP BY a.AutorID, k.KategorijaID
+ORDER BY a.ImePrezime, BrojKnjigaUKategoriji DESC;

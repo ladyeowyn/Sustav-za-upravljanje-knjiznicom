@@ -1,0 +1,10 @@
+-- autori bez objavljene knjige u zadnjih 10 godina
+CREATE VIEW AutoriBezNovijihIzdanja AS
+SELECT DISTINCT a.AutorID, a.ImePrezime
+FROM autori a
+WHERE a.AutorID NOT IN (
+    SELECT DISTINCT ka.AutorID
+    FROM knjigaautori ka
+    JOIN knjige k ON ka.KnjigaID = k.KnjigaID
+    WHERE k.GodinaIzdavanja >= YEAR(CURDATE()) - 10
+);

@@ -1,0 +1,14 @@
+-- knjige čija je kategorija 12,2 ili 22 (Fantastika) te ukupan broj knjiga koje su dostupne od tih autora
+CREATE VIEW fantastika_dostupan_broj_knjiga AS
+SELECT 
+  k.Naslov AS NaslovKnjige,
+  a.ImePrezime,
+  (
+    SELECT COUNT(*) 
+    FROM knjigaautori AS ka2 
+    WHERE ka2.AutorID = a.AutorID
+  ) AS UkupnoKnjigaOdAutora
+FROM knjige AS k
+JOIN knjigaautori ka ON k.KnjigaID = ka.KnjigaID
+JOIN autori AS a ON ka.AutorID = a.AutorID
+WHERE k.KategorijaID = 12 OR k.KategorijaID = 22 OR k.KategorijaID = 2;

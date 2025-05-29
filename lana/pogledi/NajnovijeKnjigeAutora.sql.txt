@@ -1,0 +1,12 @@
+-- najnovije knjige po autoru
+CREATE VIEW NajnovijeKnjigeAutora AS
+SELECT a.AutorID, a.ImePrezime, k.Naslov, k.GodinaIzdavanja
+FROM autori a
+JOIN knjigaautori ka ON a.AutorID = ka.AutorID
+JOIN knjige k ON ka.KnjigaID = k.KnjigaID
+WHERE k.GodinaIzdavanja = (
+    SELECT MAX(k2.GodinaIzdavanja)
+    FROM knjigaautori ka2
+    JOIN knjige k2 ON ka2.KnjigaID = k2.KnjigaID
+    WHERE ka2.AutorID = a.AutorID
+);

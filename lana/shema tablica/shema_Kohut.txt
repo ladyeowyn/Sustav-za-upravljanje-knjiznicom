@@ -1,0 +1,28 @@
+-- Tablica za knjige
+CREATE TABLE Knjige (
+    KnjigaID INT AUTO_INCREMENT PRIMARY KEY,
+    Naslov VARCHAR(255) NOT NULL,
+    ISBN VARCHAR(20),
+    GodinaIzdavanja YEAR,
+    Status VARCHAR(50),
+    IzdavacID INT,
+    KategorijaID INT,
+    FOREIGN KEY (IzdavacID) REFERENCES Izdavaci(IzdavacID),
+    FOREIGN KEY (KategorijaID) REFERENCES Kategorije(KategorijaID)
+) ENGINE=InnoDB;
+
+-- Tablica za autore
+CREATE TABLE Autori (
+    AutorID INT AUTO_INCREMENT PRIMARY KEY,
+    ImePrezime VARCHAR(255) NOT NULL,
+    Biografija TEXT
+) ENGINE=InnoDB;
+
+-- Tablica za many-to-many vezu između knjiga i autora
+CREATE TABLE KnjigaAutori (
+    KnjigaID INT,
+    AutorID INT,
+    PRIMARY KEY (KnjigaID, AutorID),
+    FOREIGN KEY (KnjigaID) REFERENCES Knjige(KnjigaID),
+    FOREIGN KEY (AutorID) REFERENCES Autori(AutorID)
+) ENGINE=InnoDB;

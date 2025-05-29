@@ -1,0 +1,10 @@
+-- prosjecna godina kada su knjige razlicitih autora izdane
+CREATE VIEW ProsjecnaGodinaAutora AS
+SELECT a.AutorID, a.ImePrezime, ROUND(AVG(k.GodinaIzdavanja)) AS ProsjecnaGodina
+FROM autori a
+JOIN knjigaautori ka ON a.AutorID = ka.AutorID
+JOIN knjige k ON ka.KnjigaID = k.KnjigaID
+GROUP BY a.AutorID, a.ImePrezime;
+
+DROP VIEW ProsjecnaGodinaAutora;
+SELECT * FROM ProsjecnaGodinaAutora;
